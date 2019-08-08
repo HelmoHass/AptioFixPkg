@@ -1,4 +1,5 @@
 AptioFix
+Latest revision R27, now abandonware
 ========
 
 [![Build Status](https://travis-ci.org/acidanthera/AptioFixPkg.svg?branch=master)](https://travis-ci.org/acidanthera/AptioFixPkg) [![Scan Status](https://scan.coverity.com/projects/16009/badge.svg?flat=1)](https://scan.coverity.com/projects/16009)
